@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+openai
+rank-bm25
+scikit-learn
+feedparser
+datasets
