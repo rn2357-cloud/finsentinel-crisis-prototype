@@ -6,3 +6,9 @@ rank-bm25
 scikit-learn
 feedparser
 datasets
+yfinance
+plotly
+scipy
+transformers
+torch
+faiss-cpu
